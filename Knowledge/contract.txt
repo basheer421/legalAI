@@ -1,0 +1,53 @@
+**PROFESSIONAL SERVICE CONTRACT**
+**THIS AGREEMENT** is made and entered into as of [DATE] by and between John Doe (hereinafter "Party One") and Jane Smith (hereinafter "Party Two").
+**WHEREAS**, Party One desires to engage Party Two to develop a mobile app for inventory management;
+**NOW, THEREFORE**, in consideration of the mutual covenants contained herein, and for other good and valuable consideration, the sufficiency and receipt of which is hereby acknowledged, the parties hereto agree as follows:
+**1. PROJECT SCOPE**
+The scope of this project includes the development of a mobile app for inventory management. The app will be designed to facilitate inventory tracking, management, and reporting functionalities.
+**2. DELIVERABLES**
+Party Two shall deliver the following:
+- A fully functional mobile app for inventory management.
+- Documentation for the app, including user manuals and technical specifications.
+- Three months of support and maintenance after project completion.
+
+- Documentation for the app, including user manuals and technical specifications.
+- Three months of support and maintenance after project completion.
+**3. PAYMENT TERMS**
+The total payment for the project is $1000.0. The payment shall be made in two installments as follows:
+- **Upfront Payment:** $500.0 to be paid upon the signing of this agreement.
+- **Completion Payment:** $500.0 to be paid upon the successful completion and delivery of the project.
+**4. DEADLINE**
+The project shall be completed and delivered to Party One no later than 31 December 2024.
+**5. CONFIDENTIALITY**
+Both parties agree to keep all information related to this project confidential. Neither party shall disclose any confidential information to third parties without the prior written consent of the other party. This confidentiality clause shall survive the termination of this agreement.
+**6. SUPPORT AND MAINTENANCE**
+
+**6. SUPPORT AND MAINTENANCE**
+Party Two agrees to provide support and maintenance for the mobile app for a period of three months after project completion. This includes bug fixes, updates, and any necessary technical support.
+**7. TERMINATION**
+Either party may terminate this agreement upon providing a thirty (30) day written notice to the other party. Upon termination, Party Two shall deliver all completed work and any related materials to Party One.
+**8. GOVERNING LAW**
+This agreement shall be governed by and construed in accordance with the laws of [STATE/COUNTRY].
+**9. ENTIRE AGREEMENT**
+This agreement constitutes the entire agreement between the parties and supersedes all prior understandings and agreements, whether written or oral, between the parties with respect to the subject matter of this agreement.
+**IN WITNESS WHEREOF**, the parties hereto have executed this Professional Service Contract as of the date first above written.
+---
+**PARTY ONE**
+John Doe
+
+**IN WITNESS WHEREOF**, the parties hereto have executed this Professional Service Contract as of the date first above written.
+---
+**PARTY ONE**
+John Doe
+Signature: ___________________________
+Print Name: John Doe
+Date: ________________________________
+---
+**PARTY TWO**
+Jane Smith
+Signature: ___________________________
+Print Name: Jane Smith
+Date: ________________________________
+---
+This contract is a formal and binding agreement between John Doe and Jane Smith for the development of a mobile app for inventory management. Both parties should review the terms carefully before signing.
+

@@ -1,0 +1,732 @@
+This is an unofficial translation
+Federal Decree-Law No. (8) of 2017 on Value Added Tax
+We, Khalifa bin Zayed Al Nahyan, President of the United Arab Emirates, Having reviewed the Constitution,
+ Federal Law No. (1) of 1972 on the Competencies of the Ministries and Powers of the Ministers and its amendments;
+ Federal Law No. (11) of 1981 on the Imposition of a Federal Customs Tax on Imports of Tobacco and its derivatives, and its amendments;
+ Federal Law No. (26) of 1981 regarding the Commercial Maritime Law, and its amendments;
+ Federal Law No. (5) of 1985 promulgating the Civil Transactions Law, and its amendments;
+ Federal Law No. (3) of 1987 promulgating the Penal Law, and its amendments;
+ Federal Law No. (10) of 1992 promulgating the Law of Evidence in Civil and Commercial
+Transactions, and its amendments;
+ Federal Law No. (11) of 1992 promulgating the Law on Civil Procedures, and its amendments;
+ Federal Law No. (18) of 1993 promulgating the Commercial Transactions Law, and its
+amendments;
+ Federal Law No. (8) of 2004 on Financial Free Zones;
+ Federal Law No. (1) of 2006 on Electronic Commerce and Transactions;
+ Federal Law No. (2) of 2008 in respect of The National Societies and Associations of Public
+Welfare;
+ Federal Law No. (1) of 2011 on the State’s Public Revenues;
+ Federal Law No. (8) of 2011 on the Reorganisation of the State Audit Institution;
+ Federal Decree-Law No. (8) of 2011 on the Rules of the Preparation of the General Budget and
+Final Accounts;
+ Federal Law No. (4) of 2012 on the Regulation of Competition;
+ Federal Law No. (12) of 2014 on the Organisation of the Auditing Profession;
+ Federal Law No. (2) of 2015 on Commercial Companies;
+ Federal Decree-Law No. (13) of 2016 on the Establishment of the Federal Tax Authority;
+ Federal Law No. (7) of 2017 on Tax Procedures; and
+ Pursuant to what was presented by the Minister of Finance and approved by the Cabinet,
+Have issued the following Decree-Law:
+This is an unofficial translation
+Title One
+Definitions
+Article (1)
+Definitions
+In the application of the provisions of this Decree-Law, the following words and expressions shall have the meanings assigned against each, unless the context otherwise requires:
+State: United Arab Emirates
+Minister: Minister of Finance
+Authority: Federal Tax Authority
+Value Added Tax: A tax imposed on the import and supply of Goods and Services at each stage of production and distribution, including the Deemed Supply.
+Tax: Value Added Tax (VAT).
+GCC States: all countries that are full members of The Cooperation Council for the Arab States of the
+Gulf pursuant to its Charter.
+Implementing States: The GCC States that are implementing a Tax law pursuant to an issued legislation.
+Goods: Physical property that can be supplied including real estate, water, and all forms of energy as specified in the Executive Regulation of this Decree-Law.
+Services: Anything that can be supplied other than Goods.
+Import: The arrival of Goods from abroad into the State or receipt of Services from outside the State.
+Concerned Goods: Goods that have been imported, and would not be exempt if supplied in the State.
+Concerned Services: Services that have been imported, where the place of supply is in the State, and would not be exempt if supplied in the State.
+Person: A natural or legal person.
+Taxable Person: Any Person registered or obligated to register for Tax purposes under this Decree-Law.
+Taxpayer: Any person obligated to pay Tax in the State under this Decree-Law, whether a Taxable Person or end consumer.
+Tax Registration: A procedure according to which the Taxable Person or his Legal Representative registers for Tax purposes at the Authority.
+Tax Registration Number (TRN): A unique number issued by the Authority for each Person registered for Tax purposes.
+
+This is an unofficial translation
+Registrant: The Taxable Person who has been issued with a TRN. Recipient of Goods: Person to whom Goods are supplied or imported. Recipient of Services: Person to whom Services are supplied or imported.
+Importer: With respect to importing Goods, it is the Person whose name is listed as the importer of the Goods on the date of Import for customs clearance purposes. With respect to Services, it is the Recipient of these Services.
+Taxable Trader: A Taxable Person in the Implementing States, whose main activity is the distribution of water and all types of energy as specified in the Executive Regulation of this Decree-Law.
+Tax Return: Information and data specified for Tax purposes and submitted by a Taxable Person in accordance with a form prepared by the Authority.
+Consideration: All that is received or expected to be received for the supply of Goods or Services, whether in money or other acceptable forms of payment.
+Business: Any activity conducted regularly, on an ongoing basis and independently by any Person, in any location, such as industrial, commercial, agricultural, professional, service or excavation activities or anything related to the use of tangible or intangible properties.
+Exempt Supply: A supply of Goods or Services for Consideration while conducting Business in the State, where no Tax is due and no Input Tax may be recovered, except according to the provisions of this Decree- Law.
+Taxable Supply: A supply of Goods or Services for a Consideration by a Person conducting Business in the State, and does not include Exempt Supply.
+Deemed Supply: Anything considered as a supply and treated as a Taxable Supply according to the instances stipulated in this Decree-Law.
+Input Tax: Tax paid by a Person or due from him when Goods or Services are supplied to him, or when conducting an Import.
+Output Tax: Tax charged on a Taxable Supply and any supply considered as a Taxable Supply. Recoverable Tax: Amounts that were paid and may be returned by the Authority to the Taxpayer pursuant
+to the provisions of this Decree-Law.
+Due Tax: Tax that is calculated and charged pursuant to this Decree-Law.
+Payable Tax: Tax that is due for payment to the Authority.
+Tax Period: A specific period of time for which the Payable Tax shall be calculated and paid.
+Tax Invoice: A written or electronic document in which the occurance of a Taxable Supply is recorded with details pertaining to it.
+
+This is an unofficial translation
+Tax Credit Note: A written or electronic document in which the occurance of any amendment to a Taxable Supply that reduces or cancels the same is recorded and the details pertaining to it.
+Government Entities: Federal and local ministries, government departments, government agencies, authorities and public institutions in the State.
+Charities: Societies and associations of public welfare not aiming to make a profit that are listed within a Cabinet Decision issued at the suggestion of the Minister.
+Mandatory Registration Threshold: An amount specified in the Executive Regulation of this Decree- Law; if exceeded by the value of Taxable Supplies or is anticipated to be exceeded, the supplier shall apply for Tax Registration.
+Voluntary Registration Threshold: An amount specified in the Executive Regulation of this Decree- Law; if exceeded by the value of Taxable Supplies or taxable expenses or is anticipated to be exceeded, the supplier may apply for Tax Registration.
+Transport-related Services: Shipment, packaging and securing cargo, preparation of Customs documents, container management, loading, unloading, storing and moving of Goods, or any another closely related services or services that are necessary to conduct the transportation services.
+Place of Establishment: The place where a Business is legally established in a country pursuant to the decision of its establishment, or in which significant management decisions are taken and central management functions are conducted.
+Fixed Establishment: Any fixed place of business, other than the Place of Establishment, in which the Person conducts his business regularly or permanently and where sufficient human and technology resources exist to enable the Person to supply or acquire Goods or Services, including the Person’s branches.
+Place of Residence: The place where a Person has a Place of Establishment or Fixed Establishment, in accordance with the provisions of this Decree-Law.
+Non-Resident: Any person who does not own a Place of Establishment or Fixed Establishment in the State and usually does not reside in the State.
+Related Parties: Two or more Persons who not separated on the economic, financial or regulatory level, where one can control the others either by Law, or through the acquisition of shares or voting rights.
+Customs Legislation: Federal and local legislation that regulate customs in the State.
+Designated Zone: Any area specified by a Cabinet Decision issued at the suggestion of the Minister, as a
+Designated Zone for the purpose of this Decree-Law.
+Export: Goods departing the State or the provision of Services to a Person whose Place of Establishment or Fixed Establishment is outside the State.
+Voucher: Any instrument that gives the right to receive Goods or Services against the value stated thereon or the right to receive a discount on the price of the Goods or Services. Vouchers do not include postage stamps issued by the Emirates Post Group.
+
+This is an unofficial translation
+Activities conducted with Sovereign Capacity: Activities conducted by Government Entities in their sole competent capacity, with or without Consideration.
+Capital Assets: Business assets designated for long-term use.
+Capital Assets Scheme: A scheme whereby the initially recovered Input Tax is adjusted based on the
+actual use during a specific period.
+Administrative Penalties: Amounts imposed upon a Person by the Authority for breaching the provisions of this Decree-Law or Federal Law No. (7) of 2017 on Tax Procedures.
+Administrative Penalties Assessment: A decision issued by the Authority concerning to Administrative Penalties due.
+Excise Tax: A tax imposed on specific Goods.
+Tax Group: Two or more Persons registered with the Authority for Tax purposes as a single taxable
+person in accordance with the provisions of this Decree-Law.
+Title Two
+Tax Scope and Rate Article (2) Scope of Tax
+Tax shall be imposed on:
+1. Every Taxable Supply and Deemed Supply made by the Taxable Person.
+2. Import of Concerned Goods except as specified in the Executive Regulation of this Decree-Law.
+Article (3)
+Tax Rate
+Without prejudice to the provisions of Title Six of this Decree-Law, a standard rate of 5% shall be imposed on any supply or Import pursuant to Article (2) of this Decree-Law on the value of the supply or Import specified in the provisions of this Decree-Law.
+
+This is an unofficial translation
+Article (4) Responsibility for Tax
+The Tax imposed shall be the responsibility of the following:
+1. A Taxable Person who makes any supply stipulated in Clause (1) of Article (2) of this Decree- Law.
+2. The Importer of Concerned Goods.
+3. The Registrant who acquires Goods as stated in Clause (3) of Article (48) of this Decree-Law.
+Title Three
+Supply
+Chapter One
+Supply of Goods and Services Article (5)
+Supply of Goods
+The following shall be considered a supply of Goods:
+1. Transfer of ownership of the Goods or the right to use them to another Person according to what is specified in the Executive Regulation of this Decree-Law.
+2. Entry into a contract between two parties entailing the transfer of Goods at a later time, pursuant to the conditions specified in the Executive Regulation of this Decree-Law.
+Article (6)
+Supply of Services
+A supply of Services shall be every supply that is not considered a supply of Goods, including any provision of Services specified in the Executive Regulation of this Decree-Law.
+Article (7)
+Supply in Special Cases
+As an exception to what is stated in Articles (5) and (6) of this Decree-Law, the following shall not be considered a supply:
+1. The sale or issuance of any Voucher unless the received Consideration exceeds its advertised monetary value, as specified in the Executive Regulation of this Decree-Law.
+2. The transfer of whole or an independent part of a Business from a Person to a Taxable Person for the purposes of continuing the Business that was transferred.
+
+This is an unofficial translation
+Article (8)
+Supply of more than one component
+The Executive Regulation of this Decree-Law shall specify the conditions for treating a supply made of more than one component for one price, whether such components are Goods or Services or both.
+Article (9) Supply via Agent
+1. The Supply of Goods and Services through an agent acting in the name of and on behalf of a principal is considered to be a supply by the principal and for his benefit.
+2. The Supply of Goods and Services through an agent acting in his name is considered to be a direct supply by the agent and for his benefit.
+Article (10)
+Supply by Government Enitites
+1. A Government Entity is regarded as making a supply in the course of business in the following cases:
+a. If its activities are conducted in a non-sovereign Capacity.
+b. If its activities are in competition with the private sector.
+2. A Cabinet Decision shall be issued at the suggestion of the Minister determining the Government
+Entities and their activities that are considered as conducted in a Sovereign Capacity and instances where its activities are considered not in competition with the private sector.
+Chapter Two Deemed Supply Article (11)
+The Cases of Deemed Supply
+The following cases shall be considered as Deemed Supply:
+1. A supply of Goods or Services, which constituted the whole assets of a Taxable Person or a part thereof, but are no longer considered to be as such, provided that the supply was made without Consideration.
+2. The transfer by a Taxable Person of Goods that constituted a part of his business assets from the State to another Implementing State, or from the Taxable Person’s business in an Implementing State to his Business in the State, except in the case where such transfer:
+a. Is considered as temporary under the Customs Legislation.
+b. Is made as part of another Taxable Supply of these Goods.
+
+This is an unofficial translation
+3. A supply of Goods or Services for which Input Tax may be recovered but the Goods or Services were used, in part or whole, for purposes other than Business, and such supply shall be considered as deemed only to the extent of the use for non-business purposes.
+4. Goods and Services that a Taxable Person owns at the date of Tax Deregistration.
+Article (12) Exceptions for Deemed Supply
+A supply is not considered as deemed in the following cases:
+1. If no Input Tax was recovered for the related Goods and Services.
+2. If the supply is an Exempt Supply.
+3. If the recovered Input Tax has been adjusted for the Goods and Services pursuant to the Capital
+Assets Scheme.
+4. If the value of the supply of the Goods, for each Recipient of Goods within a 12-month period,
+does not exceed the amount specified in the Executive Regulation of this Decree-Law, and the
+Goods were supplied as samples or commercial gifts.
+5. If the total Output Tax due for all the Deemed Supplies per Person for a 12-month period is less
+than the amount specified in the Executive Regulation of this Decree-Law.
+Title Four
+Tax Registration and Deregistration Article (13)
+Mandatory Tax Registration
+1. Every Person, who has a Place of Residence in the State or an Implementing State and is not already registered for Tax, shall register in the following situations:
+a. Where the total value of all supplies referred to in Article (19) exceeded the Mandatory Registration Threshold over the previous 12-month period.
+b. Where it is anticipated that the total value of all supplies referred to in Article (19) will exceed the Mandatory Registration Threshold in the next thirty (30) days.
+2. Every Person, who does not have a Place of Residence in the State or an Implementing State and is not already registered for Tax, shall register for Tax if he makes supplies of Goods or Services, and where no other Person is obligated to pay the Due Tax on these supplies in the State.
+3. The Executive Regulation of this Decree-Law shall specify the time limits that a Person has to inform the Authority about his liability to register for Tax and the effective date of Tax Registration.
+
+This is an unofficial translation
+Article (14)
+Tax Group
+1. Two or more persons conducting Businesses may apply for Tax Registration as a Tax Group if all of the following conditions are met:
+a. Each shall have a Place of Establishment or Fixed Establishment in the State.
+b. The relevant persons shall be Related Parties.
+c. One or more persons conducting business in a partnership shall control the others.
+2. The Executive Regulation of this Decree-Law will determine the instances where the Authority may reject the application to register a Tax Group.
+3. Any Person conducting Business is not allowed to have more than one Tax Registration Number, unless otherwise prescribed in the Executive Regulation.
+4. If Related Parties do not apply for Tax Registration as a Tax Group under Clause (1) of this Article, the Authority may assess their relation based on their economic, financial and regulatory practices in business and register them as a Tax Group if their relation was proved thereto according to the controls and Conditions specified by the Executive Regulation of this Decree-Law.
+5. The Authority may deregister the Tax Group registration in accordance with this Article as per the conditions specified in the Executive Regulation of this Decree-Law.
+6. The Authority may make changes to the Persons registered as a Tax Group by adding or removing Persons as requested by the Taxable Person or in accordance with the instances mentioned in the Executive Regulation.
+Article (15) Registration Exceptions
+1. The Authority may except a Taxable Person from mandatory Tax Registration upon his request if his supplies are only subject to the zero rate.
+2. Anyone excepted from Tax Registration according to Clause (1) of this Article shall inform the Authority of any changes to his Business that would make him subject to Tax under this Decree- Law pursuant to the time limits and procedures determined in the Executive Regulation of this Decree-Law.
+3. The Authority shall have the right to collect any Due Tax and Administrative Penalties for the period of exception where that Taxable Person was not entitled to the exception.
+Article (16)
+Tax Registration of Governmental Bodies
+Government Entities which shall be determined in a Cabinet Decision issued under Clause (2) of Article (10) of this Decree-Law, shall apply for Tax Registration and may not be Deregistered unless by a Cabinet Decision at the suggestion of the Minister.
+
+This is an unofficial translation
+Article (17)
+Voluntary Registration
+Any Person who is not obligated to apply for Tax Registration according to this Chapter may apply for Tax Registration in the following cases:
+1. If he proves, at the end of any given month, that the total value of supplies referred to in Article (19) of this Decree-Law or the expenses which are subject to Tax and were incurred during the previous 12-month period, has exceeded the Voluntary Registration Threshold.
+2. At any time that he anticipates that the total value of supplies stipulated in Article (19) of this Decree-Law or the expenses which are subject to Tax that will be incurred, will exceed the Voluntary Registration Threshold during the coming 30-day period.
+Article (18)
+Tax Registration for a Non-Resident
+A Non-resident Person may not take the value of Goods and Services imported into the State to determine whether he is entitled to apply for Tax Registration if the calculation of Tax for such Goods or Services is the reponsibility of the Importer pursuant to Clause (1) of Article (48) of this Decree-Law.
+Article (19)
+Calculating the Tax Registration Threshold
+To determine whether a Person has exceeded the Mandatory Registration Threshold and the Voluntary Registration Threshold, the following shall be calculated:
+1. The value of Taxable Goods and Services.
+2. The value of Concerned Goods and Concerned Services received by the Person unless covered by
+Clause (1) of this Article.
+3. The value of the whole or relevant part of Taxable Supplies that belong to said Person if he has,
+wholly or partly, acquired a Business from another Person who made the supplies.
+4. The value of Taxable Supplies made by Related Parties pursuant to the cases stated in the
+Executive Regulation of this Decree-Law.
+Article (20)
+Capital Assets
+The supply of Capital Assets belonging to the Person shall not be taken into account to determine whether a Person in Business exceeds the Mandatory Registration Threshold or Voluntary Registration Threshold.
+
+This is an unofficial translation
+Article (21)
+Tax De-Registration Cases
+A Registrant shall apply to the Authority for Tax Deregistration in any of the following cases:
+1. If he stops making Taxable Supplies.
+2. If the value of the Taxable Supplies made over a period of (12) consecutive months is less than the
+Voluntary Registration Threshold and said Registrant does not meet the condition stipulated in Clause (2) of Article (17) of this Decree-Law.
+Article (22)
+Application for Tax De-Registration
+A Registrant may apply to the Authority for Tax Deregistration if the value of his Taxable Supplies during the past (12) months was less than the Mandatory Registration Threshold.
+Article (23)
+Voluntary Tax De-registration
+A Registrant under Article (17) may not apply for Tax Deregistration within (12) months of the date of Tax Registration.
+Article (24)
+Procedures, Controls and Conditions of Tax Registration and De-registration
+The Executive Regulation of this Decree-Law shall determine the procedures, controls and conditions for Tax Registration, Tax deregistration and rejection of applications for Tax Registration and Deregistration as stipulated in this Title.
+
+This is an unofficial translation
+Title Five
+Rules Pertaining to Supplies
+Chapter One
+Date of Supply
+Article (25)
+Date of Supply
+Tax shall be calculated on the date of supply of Goods or Services, which shall be earlier of any of the following dates:
+1. The date on which Goods were transferred, if such transfer was under the supervision of the supplier.
+2. The date on which the Recipient of Goods took possession of the Goods, if the transfer was not supervised by the supplier.
+3. Where goods are supplied with assembly and installation, the date on which the assembly or installation of the Goods was completed.
+4. The date on which the Goods are Imported under the Customs Legislation.
+5. The date on which the Recipient of Goods accepted the supply, or a date no later than (12) months after the date on which the Goods were transferred or placed under the Recipient of Goods
+disposal, if the supply was made on a returnable basis.
+6. The date on which the Services were completed.
+7. The date of receipt of payment or the date on which the Tax Invoice was issued.
+Article (26)
+Date of Supply in Special Cases
+1. The date of supply of Goods or Services for any contract that includes periodic payments or consecutive invoices is the earliest of any of the following dates, provided that it does not exceed one year from the date of the provision of such Goods and Services:
+a. The date of issuance of any Tax Invoice.
+b. The date payment is due as shown on the Tax Invoice.
+c. The date of receipt of payment.
+2. The date of supply, in cases where payment is made through vending machines, shall be the date on which funds are collected from the machine.
+3. The date of Deemed Supply of Goods or Services is the date of their supply, disposal, change of usage or the date of Deregistration, as the case may be.
+4. The date of a supply of a voucher is the date of issuance or supply thereafter.
+
+This is an unofficial translation
+Chapter Two Place of Supply Article (27)
+Place of Supply of Goods
+1. The place of supply of Goods shall be in the State if the supply was made in the State, and does not include Export from or Import into the State.
+2. The place of supply of installed or assembled Goods if exported from or imported into the State shall be:
+a. In the State if assembly or installation of the Goods was done in the State.
+b. Outside the State if assembly or installation of the Goods was done outside the State.
+3. The place of supply of Goods that includes Export or Import shall be as follows:
+a. Inside the State in the following instances:
+1) If the supply includes exporting to a place outside the Implementing States.
+2) IftheRecipientofGoodsinanImplementingStateisnotregisteredforTaxinthe
+state of destination, and the total exports from the same supplier to this state does
+not exceed the mandatory registration threshold for said state.
+3) TheRecipientofGoodsdoesnothaveaTaxRegistrationNumberintheState,and the total exports from the same supplier in an Implementing State to the State
+exceeds the Mandatory Registration Threshold.
+b. Outside the State in the following instances:
+1) ThesupplyincludesanExporttoacustomerregisteredforTaxpurposesinoneof the Implementing States.
+2) TheRecipientofGoodsisnotregisteredforTaxintheImplementingStatetowhich export is made, and the total exports from the same supplier to this Implementing State exceeds the mandatory registration threshold for said state.
+3) TheRecipientofGoodsdoesnothaveaTaxRegistrationNumberandtheGoods are Imported from a supplier registered for Tax in any of the Implementing States from which import is made, and the total imports from the same supplier to the State do not exceed the Mandatory Registration Threshold.
+4. Goods shall not be treated as exported outside the State and then reimported if such Goods are supplied in the State and this supply required that the Goods exit and then re-enter the State according to the instances specified in the Executive Regulation of this Decree-Law.
+Article (28)
+Place of Supply of Water and Energy
+1. The supply of water and all forms of energy specified in the Executive Regulation of this Decree- Law through a distribution system, shall be considered as done in the Place of Residence of the Taxable Trader in case the distribution was conducted by a Taxable Person having a Place of Residence in the State to a Taxable Trader having a Place of Residence in an Implementing State.
+2. The supply of water and all forms of energy specified in the Executive Regulation of this Decree- Law through a distribution system, shall be considered to have occurred at the place of actual consumption, if distribution was conducted by a Taxable Person to a Non-Taxable Person.
+
+This is an unofficial translation
+Article (29)
+Place of Supply of Services
+The place of supply of Services shall be the Place of Residence of the Supplier.
+Article (30)
+Place of Supply in Special Cases
+As an exception to what is stipulated in Article (29) of this Decree-Law, the place of supply in special cases shall be as follows:
+1. Where the Recipient of Services has a Place of Residence in another Implementing State and is registered for Tax therein, the place of supply shall be the Place of Residence of the Recipient of Services.
+2. Where the Recipient of Services is in Business and has a Place of Residence in the State, and the Supplier does not have a Place of Residence in the State, the place of supply shall be in the State.
+3. For the Supply of Services related to Goods, such as installation of Goods supplied by others, the
+place shall be where said Services were performed.
+4. For the Supply of means of transport to a lessee who is not a Taxable Person in the State and does
+not have a TRN in an Implementing State, the place shall be where such means of transport were
+placed at the disposal of the lessee.
+5. For the Supply of restaurant, hotel, and food and drink catering Services, the place shall be where
+such Services are actually performed.
+6. For the Supply of any cultural, artistic, sporting, educational or any similar services, the place shall
+be where such Services were performed.
+7. For the Supply of Services related to real estate as specified in the Executive Regulation of this
+Decree-Law, the place of supply shall be where the real estate is located.
+8. For the Supply of transportation Services, the place of supply shall be where transportation starts. The Executive Regulation of this Decree-Law shall specify the place of supply for transportation
+Services if the trip includes more than one stop.
+Article (31)
+Place of Supply of Telecommunication and Electronic Services
+1. For telecommunications and electronic Services specified in the Executive Regulation of the Decree-Law, the place of supply shall be:
+a. In the State, to the extent of the use and enjoyment of the supply in the State.
+b. Outside the State, to the extent of the use and enjoyment of the supply outside the State.
+2. The actual use and enjoyment of all telecommunications and electronic Services shall be where
+these Services were used regardless of the place of contract or payment.
+
+This is an unofficial translation
+Chapter Three Place of Residence Article (32) Place of Establishment
+The Place of Residence of the supplier or Recipient of Services shall be as follows:
+1. The state in which the Person’s Place of Establishment is located or where he has a Fixed Establishment, provided that he does not have a Place of Establishment or owns a Fixed Establishment in any other state.
+2. The state in which the Person’s Place of Establishment is located or where he has a Fixed Establishment that is the most closely related to the supply if he has a Place of Establishment in more than one state or has Fixed Establishments in more than one state.
+3. The state in which the usual Place of Residence of the Person is located if he does not have a Place of Establishment or a Fixed Establishment in any state.
+Article
+(33) The Agent
+The Place of Residence of an agent shall be regarded as the Place of Residence of the principal in the following two cases:
+1. If the agent regularly exercises the right of negotiation and enters into agreements in favor of the principal.
+2. If the agent maintains a stock of Goods to fulfil supply agreements for the principal regularly.
+Chapter Four Value of Supply Article (34) Value of Supply
+The value of supply of Goods or Services for Consideration shall be as follows:
+1. If the entire Consideration is monetary, the value of the supply shall be the Consideration less the Tax.
+2. If all or part of the Consideration is not monetary, the value of the supply is calculated as the overall monetary part plus the market value of the non-monetary part of the Consideration, and shall not include the Tax.
+3. For Services received by the Taxable Person who is obligated to calculate the Tax in accordance with Clause (1) of Article (48) of this Decree-Law, the value of the supply shall be equal to the market value of the consideration without addition of the Tax on that supply.
+
+This is an unofficial translation
+4. If the Consideration is related to matters other than the supply of Goods or Services, the value of the supply shall be equal to the part of the Consideration that is related to such supply as stated in the Executive Regulation of this Decree-Law.
+The Executive Regulation of this Decree-Law shall specify the rules to determine the market value.
+Article (35) Value of Import
+The Import value of Goods consists of:
+1. The customs value pursuant to Customs Legislation, including the value of insurance, freight and any customs fees and Excise Tax paid on the Import of the Goods. Tax shall not be included in the Value of the Supply.
+2. If it is not possible to determine the value pursuant to Clause (1) of this Article, the value shall be determined based on alternate valuation rules stated in the applicable Customs Legislation..
+Article (36)
+Value of Supply for Related Parties
+As an exception to Articles (34) and (35) of this Decree-Law, the value of the supply or Import of Goods or Services between Related Parties shall be considered equal to the market value if the following conditions are met:
+1. The value of the supply is less than the market value.
+2. If the supply is a Taxable Supply and the Recipient of Goods or Recipient of Services does not
+have the right to recover the full Tax that would have been charged to such supply as Input Tax.
+Article (37)
+Value of Deemed Supply
+As an exception to Articles (34) and (35) of this Decree-Law, the value of the supply in the case of a Deemed Supply when the Taxable Person purchases Goods or Services to make Taxable Supplies but does not use those Goods or Services for that purpose, will be equal to the total cost incurred by the Taxable Person to make this Deemed Supply of Goods or Services.
+Article (38)
+Tax-Inclusive Prices
+For Taxable Supplies, the advertised price shall include the Tax. Instances where prices do not include the Tax shall be determined by the Executive Regulation of this Decree-Law.
+
+This is an unofficial translation
+Article (39)
+Value of Supply in case of Discount or Subsidies
+When discounts are made before or after the Date of Supply or subsidies provided by the State to the supplier for that supply, the value of the supply shall be reduced in proportion to such discounts or subsidies.
+The Executive Regulation of this Decree-Law shall specify the conditions and restrictions for calculating the Tax when the discount is made.
+Article (40)
+Value of Supply of Vouchers
+The value of supply of a Voucher is the difference between the consideration received by the supplier of the Voucher and the advertised monetary value of the Voucher.
+Article (41)
+Value of Supply of Postage Stamps
+The value of supply for postage stamps that allow the user to use postal services in the State shall be the amount shown on the stamp.
+Article (42)
+Temporary Transfer of Goods
+If Goods are transferred temporarily from the domestic market into a Designated Zone or outside the State for completing the manufacturing or repair in order to re-import them into the State, the value of the supply when re-Imported shall be the value of the Services rendered.
+Chapter Five
+Profit Margin
+Article (43)
+Charging Tax based on Profit Margin
+1. The Registrant may, in any Tax Period, calculate and charge Tax based on the profit margin earned on the Taxable Supplies as specified in the Executive Regulation of this Decree-Law and not based on the value of these supplies, and shall notify the Authority of the same.
+
+This is an unofficial translation
+2. The Executive Regulation of this Decree-Law shall specify the conditions to be met for the application of the provisions of this Article.
+Title Six
+Zero Rates and Exemptions
+Chapter One
+Zero Rate
+Article (44)
+Supply and Import Taxable at Zero Rate
+The supply and Import of Goods and Services specified in this Chapter made by a Taxable Person shall be a Taxable Supply subject to the zero rate.
+Article (45)
+Supply of Goods and Services that is Subject to Zero Rate
+The Zero rate shall apply to the following Goods and Services:
+1. A direct on indirect Export to outside the Implementing States as specified in the Executive A direct or indirect Export to outside the Implementing States as specified in the Executive Regulation of this Decree-Law.
+2. International transport of passengers and Goods which starts or ends in the State or passes through its territory, including also services related to such transport.
+3. Air passenger transport in the State if it is considered an “international carriage” pursuant to Article (1) of the Warsaw Convention for the Unification of Certain Rules Relating to International Carriage by Air 1929.
+4. Supply of air, sea and land means of transport for the transportation of passengers and Goods as specified in the Executive Regulations of this Decree-Law.
+5. Supply of Goods and Services related to the supply of the means of transport mentioned in Clause (4) of this Article and which are designed for the operation, repair, maintenance or conversion of these means of transport.
+6. Supply of aircrafts or vessels designated for rescue and assistance by air or sea.
+7. Supply of Goods and Services related to the transfer of Goods or passengers aboard land, air or sea means of transport pursuant to Clauses (2) and (3) of this Article, designated for consumption on board; or anything consumed by any means of transport, any installations or addition thereto or
+any other use during transportation.
+8. The supply or Import of investment precious metals. The Executive Regulation of this Decree-
+Law shall specify the precious metals and the standards based on which they are classified as being for investment purposes.
+
+This is an unofficial translation
+9. The first supply of residential buildings within (3) years of its completion, either through sale or lease in whole or in part, according to the controls specified in the Executive Regulation of this Decree-Law .
+10. The first supply of buildings specifically designed to be used by Charities through sale or lease according to the controls specified in the Executive Regulation of this Decree-Law.
+11. The first supply of buildings converted from non-residential to residential through sale or lease according to the conditions specified in the Executive Regulation of this Decree-Law.
+12. The supply of crude oil and natural gas.
+13. The supply of educational services and related Goods and Services for nurseries, preschool,
+elementary education, and higher educational institutions owned or funded by Federal or local
+Government, as specified in the Executive Regulation of this Decree-Law.
+14. The supply of preventive and basic healthcare Services and related Goods and Services according
+to what is specified in the Executive Regulation of this Decree-Law.
+Chapter Two Exemptions Article (46) Supply Exempt from Tax
+The following supplies shall be exempt from Tax:
+1. Financial services that are specified in the Executive Regulation of this Decree-Law.
+2. Supply of residential buildings through sale or lease, other than that which is zero-rated according
+to Clauses (9) and (11) of Article (45) of this Decree-Law.
+3. Supply of bare land.
+4. Supply of local passenger transport.
+The Executive Regulation of this Decree-Law shall specify the conditions and controls for exempting the supplies mentioned in the preceding clauses of this Article.
+Chapter Three
+Single and Mixed Supplies Article (47)
+Supply of More Than One Component
+The Executive Regulation of this Decree-Law will specify the controls to determine the tax treatment of any supply composed of more than one component for a single price, where each component is subject to a different tax treatment.
+
+This is an unofficial translation
+Chapter Four
+Specific Obligations to Account for Tax Article (48)
+Reverse Charge
+1. If the Taxable Person imports Concerned Goods or Concerned Services for the purposes of his Business, then he shall be treated as making a Taxable Supply to himself, and shall be responsible for all applicable Tax obligations and accounting for Due Tax in respect of these supplies.
+2. As an exception to Clause (1) of this Article, in case the final destination of the Goods when entering the State is another Implementing State, the Taxable Person shall pay the Due Tax on Import of Concerned Goods pursuant to the mechanism specified by the Executive Regulation of this Decree-Law.
+3. If a Registrant makes a Taxable Supply in the State to another Registrant of any crude or refined oil, unprocessed or processed natural gas, or any hydrocarbons, and the Recipient of these Goods intends to either resell the purchased Goods as crude or refined oil, unprocessed or processed natural gas, or any hydrocarbons, or use these Goods to produce or distribute any form of energy, the following rules shall apply:
+a. the Registrant making the Supply shall not charge Tax on the value of the supply of the The Registrant making the Supply shall not charge Tax on the value of the supply of the Goods referred to in this paragraph.
+b. The Recipient of the Goods shall calculate the Tax on the value of the Goods supplied thereto and shall be responsible for all applicable Tax obligations and for calculating the Due Tax in respect of such supplies.
+4. The provisions of Clause (3) of this Article shall not apply in any of the following situations:
+a. Where, before the Date of Supply, the Recipient of Goods has not provided a written
+confirmation to the supplier that his acquisition of the Goods is for the purpose of resale.
+b. Where, before the Date of Supply, the Recipient of Goods has not provided a written confirmation to the supplier that he is a Registrant and the supplier has not verified the Tax
+Registration of the Recipient of Goods by means approved by the Authority.
+c. Where the Taxable Supply would be subject to Tax at the rate of 0% in accordance with
+Clause (1) of Article (45) of this Decree-Law.
+d. Where the Taxable Supply includes a supply of Goods or Services other than the Goods
+referred to in Clause (3) of this Article.
+5. Where a Recipient of Goods of any crude or refined oil, unprocessed or processed natural gas, or
+any hydrocarbons confirms in writing to the supplier that he is a Registrant for the purposes of applying Clause (3) of this Article, the following shall appl:
+a. The supplier shall not be liable for calculating the Tax in relation to the supply unless he was aware or supposed to be aware, that the Recipient was not a Registrant at the Date of Supply.
+b. The Recipient shall be liable for the calculation of any Due Tax in respect of the supply.
+6. If the supplier mentioned in paragraph (a) of Clause (5) of this Article is supposed to be aware that the Recipient of Goods was not registered at the Date of Supply, the supplier and the Recipient of Goods shall be jointly and severely liable for any Due Tax and relevant penalties in respect of the
+supply.
+7. The Executive Regulation of this Decree-Law shall specify:
+
+This is an unofficial translation
+a. Conditions and instances where the mechanism in Clause (1) of this Article applies.
+b. Additional obligations related to record keeping for Tax calculated according to the
+mechanism in Clause (1) of this Article.
+Article (49)
+Import of Concerned Goods
+A person not registered for Tax shall pay Due Tax on Import of Concerned Goods from outside the Implementing States on the date of Import pursuant to the payment mechanism specified by the Executive Regulation of this Decree-Law.
+Chapter Five
+Designated Zones
+Article (50)
+Designated Zone
+A “Designated Zone” that meets the conditions specified in the Executive Regulation of this Decree-Law shall be treated as being outside the State.
+Article (51)
+Transfer of Goods in Designated Zones
+1. Goods may be transferred from one Designated Zone to another Designated Zone without any Tax becoming due.
+2. The Executive Regulation of this Decree-Law shall specify the procedures and conditions for the transfer of Goods from and to a Designated Zone as well as the method of keeping, storing and processing such Goods therein.
+Article (52)
+Exceptions for Designated Zone
+As an exception to Article (50) of this Decree-Law, the Executive Regulation of this Decree-Law shall specify the conditions under which the Business conducted within the Designated Zones will be regarded as being conducted in the State.
+
+This is an unofficial translation
+Title Seven Calculation of Due Tax Chapter One
+Due Tax for a Tax Period Article (53)
+The Payable Tax for any Tax Period shall be calculated as being equal to the total Output Tax payable pursuant to this Decree-Law and which has been done in the Tax Period less the total Recoverable Tax by said Taxable Person over the same Tax Period.
+Article (54) Recoverable Input Tax
+1. The Input Tax that is recoverable by a Taxable Person for any Tax Period is the total of Input Tax paid for Goods and Services which are used or intended to be used for making any of the following:
+a. Taxable Supplies.
+b. Supplies that are made outside the State which would have been Taxable Supplies had they
+been made in the State.
+c. Supplies specified in the Executive Regulation of this Decree-Law that are made outside
+the State, which would have been treated as exempt had they been made inside the State.
+2. Where Goods are imported by a Taxable Person through another Implementing State and the intended final destination of those Goods was the State at the time of Import, then the Taxable Person shall be entitled to treat the Tax paid in respect of Import of Goods into the Implementing State as Recoverable Tax subject to conditions specified the Executive Regulation of this Decree-
+Law.
+3. Where Goods were acquired by a Taxable Person in another Implementing State and then moved
+into the State, the Taxable Person shall be entitled to treat the Tax paid in respect of the Goods in the Implementing State as Recoverable Tax subject to the conditions specified in the Executive Regulation of this Decree-Law.
+4. A Taxable Person shall not be entitled to recover any Input Tax in respect of Tax paid in accordance with Clause (2) of Article (48) of this Decree-Law.
+5. The Executive Regulation of this Decree-Law shall specify the instances where Input Tax is excepted from being recovered.
+Article (55)
+Recovery of Recoverable Input Tax in the Tax Period
+1. Taking into consideration the provisions of Article (56) of this Decree-Law, the Recoverable Input Tax may be deducted through the Tax Return relating to the first Tax Period in which the following conditions have been satisfied:
+
+This is an unofficial translation
+a. The Taxable Person receives and keeps the Tax Invoice as per the provisions of this Decree-Law, provided that the Tax Invoice includes the details of the supply related to such Input Tax, or keeps any other document pursuant to Clause (3) of Article (65) of this Decree-Law in relation to the Supply or Import on which Input Tax was paid.
+b. The Taxable Person pays the Consideration for the Supply or any part thereof, as specified in the Executive Regulation of this Decree-Law.
+2. If the Taxable Person entitled to recover the Input Tax fails to do so during the Tax Period in which the conditions stated in Clause (1) of this Article have been satisfied, he may include the Recoverable Tax in the Tax Return for the subsequent Tax Period.
+Article (56)
+Input Tax Paid before Tax Registration
+1. A Registrant may recover Recoverable Tax incurred before Tax Registration on the Tax Return submitted for the first Tax Period following Tax Registration, which has been paid for any of the following:
+a. Supply of Goods and Services made to him prior to the date of Tax Registration.
+b. Import of Goods by him prior to the date of Tax Registration.
+Provided that these Goods and Services were used to make supplies that give the right to Input Tax recovery upon Tax Registration.
+2. As an exception to the provisions of Clause (1) of this Article, Input Tax may not be recovered in any of the following instances:
+a. The receipt of Goods and Services for purposes other than making Taxable Supplies.
+b. Input Tax related to the part of the Capital Assets that depreciated before the date of Tax
+Registration.
+c. If the Services were received more than five years prior to the date of Tax Registration.
+d. Where a Person has moved the Goods to another Implementing State prior to the Tax
+Registration in the State.
+Article (57)
+Recovery of Tax by Government Entities and Charities
+A Cabinet Decision shall be issued at the suggestion of the Minister determining the Government Entities and Charities entitled to recover the full amount of Input Tax paid by them, except for:
+1. Tax excluded from recovery as specified in the Executive Regulation of this Decree-Law.
+2. Tax paid for Goods and Services used to perform exempt supplies.
+
+This is an unofficial translation
+Chapter Two
+Apportionment and Adjustment of Input Tax Article (58)
+Calculating the Input Tax that may be Recovered
+The Executive Regulation of this Decree-Law shall specify the method in which the Input Tax that may be recovered is calculated, if Input Tax is paid for Goods or Services during a specific Tax Period to make supplies that allow recovery under Article (54) and others that do not allow recovery, or for activities conducted that are not in the course of doing the Business.
+Article (59)
+Conditions and Mechanism of Input Tax Adjustment
+The Executive Regulation of this Decree-Law shall specify the conditions and mechanism for adjusting Input Tax in the following cases:
+1. If the Taxable Person attributes the Input Tax, either fully or partially, to make Taxable Supplies, but changed the use, or the intended use, of those Goods or Services prior to making the Taxable Supplies.
+2. If the Taxable Person attributes the Input Tax, either fully or partially, to make Exempt Supplies, or for activities that do not fall within the conduct of Business, but changed the use or the intended use of the those Goods or Services related to the Input Tax prior to making Exempt Supplies.
+Chapter Three Capital Assets Scheme Article (60) Capital Assets Scheme
+1. If a Capital Asset is supplied or imported by a Taxable Person, the latter shall assess the period of use of such asset and make the necessary adjustments to the Input Tax paid pursuant to the Capital Assets Scheme.
+2. A Taxable Person shall keep the records related to Capital Assets for at least ten years.
+3. The Executive Regulation of this Decree-Law shall specify the following:
+a. Capital Assets subject to the provisions of this Decree-Law and their estimated useful life.
+b. The method of adjusting Capital Assets and the periods for which adjustments should be
+made.
+c. Instances where the period for keeping records of Capital Asset records is extended.
+
+This is an unofficial translation
+Chapter Four
+Adjustment of Tax after the Supply Date Article (61)
+Instances and Conditions for Output Tax Adjustments
+1. A Registrant shall adjust Output Tax after the date of supply in any of the following instances:
+a. If the supply was cancelled.
+b. If the Tax treatment of the supply has changed due to a change in the nature of the supply.
+c. If the previously agreed Consideration for the supply was altered for any reason.
+d. If the Recipient of Goods or Recipient of Services returned them to the Registrant in full
+or in part and the Consideration was returned in full or in part.
+e. If the Tax was charged in error.
+2. Paragraph (e) of Clause (1) of this Article shall not apply where the place of supply was treated by the supplier at the Date of Supply as being subject to Clause (1) of Article (27), but, as a result of a movement of the Goods, it turned out that it should have been treated as a supply under paragraph (b)(1) of Clause (3) of the same.
+3. In order to adjust the Output Tax any of the following conditions shall be met:
+a. If the Output Tax amount charged on the supply stated in the Tax Invoice does not match the Tax that should actually be charged on the supply as a result of any of the events
+mentioned in Clause (1) of this Article.
+b. If the Registrant submits a Tax Return for the Tax Period during which the supply occurred
+and an amount was incorrectly calculated as being the amount of Output Tax due for this supply as the result of any of the events mentioned in Clause (1) of this Article.
+Article (62)
+Mechanism for Output Tax Adjustment
+The Output Tax shall be adjusted according to the following:
+1. If the Output Tax due for the supply exceeds the Output Tax calculated by the Registrant, the Registrant shall issue a new Tax Invoice for the additional amount of Tax and calculate the additional Tax due for the Tax Period during which such an increase was identified.
+2. If the Output Tax calculated by the Registrant exceeds the Output Tax which should have been charged on the supply, the Registrant shall issue a Tax Credit Note according to the provisions of this Decree-Law.
+Article (63)
+Adjustment due to the Issuance of Tax Credit Notes
+Without prejudice to Clause (2) of Article (62) of this Decree-Law, if the Registrant issues a Tax Credit Note to correct Output Tax charged to the Recipient of Goods or Recipient of Services, the Tax stated in the Tax Credit Note shall be considered as:
+
+This is an unofficial translation
+1. A reduction of the Output Tax for the Registrant of this Tax Credit Note.
+2. A reduction of the Input Tax by the Recipient of Goods or Recipient of Services for the Tax Period
+during which the Tax Credit Note was received.
+Article (64) Adjustment for Bad Debts
+1. A Registrant supplier may reduce the Output Tax in a current Tax Period to adjust the Output Tax paid for any previous Tax Period if all of the following conditions are met:
+a. Goods and Services have been supplied and the Due Tax has been charged and paid.
+b. Consideration for the supply has been written off in full or part as a bad debt in the accounts
+of the supplier.
+c. More than six (6) months has passed from the date of the supply.
+d. The Registrant supplier has notified the Recipient of Goods and the Recipient of Services
+of the amount of Consideration for the supply that has been written off.
+2. The registered Recipient of Goods or Recipient of Services shall reduce the Recoverable Input Tax for the current Tax Period related to a supply received during any previous Tax Period where the
+Consideration has not been paid and all of the following conditions are met:
+a. The registered supplier reduced the Output Tax as stated in Clause (1) of this Article and the Recipient of Goods and the Recipient of Services has received a notification from the
+supplier of the Consideration being written off.
+b. The Recipient of Goods and Recipient of Services received the Goods and Services and
+the relevant Input Tax was deducted.
+c. The Consideration was not paid in full or in part for the supply for over (6) six months.
+3. The reduction stated in Clause (1) and (2) shall be equal to the Tax related to the Consideration which has been written off according to paragraph (b) of Clause (1) of this Article.
+Chapter Five
+Tax Invoices
+Article (65)
+Conditions and Requirements for Issuing Tax Invoices
+1. A Registrant making a Taxable Supply shall issue an original Tax Invoice and deliver it to the Recipient of Goods or Recipient of Services.
+2. A Registrant making a Deemed Supply shall issue an original Tax Invoice and deliver it to a Recipient of Goods or Recipient of Services if available or keep it in his records if there is no Recipient of Goods or Recipient of Services.
+3. The Executive Regulation of this Decree-Law shall specify the following:
+a. Data to be included in the Tax Invoice.
+b. The conditions and procedures required to issue an electronic Tax Invoice.
+c. Instances where the Registrant is not required to issue and deliver a Tax Invoice to the
+Recipient of Goods or the Recipient of Services.
+
+This is an unofficial translation
+d. Instances where other documents may be issued in place of the Tax Invoice as well as the conditions thereof and the data to be included therein.
+e. Instances where another Person may issue a Tax Invoice on behalf of the registered supplier.
+4. Any Person who receives an amount as Tax pursuant to any document issued by him shall pay this amount to the Authority even if it is not due.
+Article (66)
+Document of Supplies to an Implementing States
+Without prejudice to Article (65) of this Decree-Law, each Registrant who supplies Goods or Services considered as supplied in any of the Implementing States, shall provide the Recipient of Goods and Recipient of Services with a document that includes all the information that must be included in the Tax Invoice and any other information as specified in the Executive Regulation of this Decree-Law, provided that this document is not labelled “Tax Invoice” and does not include any Tax charged.
+Article (67)
+Date of Issuance of Tax Invoice
+The Registrant shall issue a Tax Invoice within 14 days as of the date of supply as stated in Article (25) of this Decree-Law.
+Article (68)
+Rounding on Tax Invoices
+For the purpose of stating the Tax due on a Tax Invoice, the Executive Regulation of this Decree-Law shall specify the method of calculation and stating the total amount to be paid if the Tax is less than one fils of a UAE Dirham.
+Article (69)
+Currency Used on Tax Invoices
+If the supply is in a currency other than the UAE Dirham, then for the purposes of the Tax Invoice, the amount stated in the Tax Invoice shall be converted into the UAE Dirham according to the exchange rate approved by the Central Bank at the date of supply.
+
+This is an unofficial translation
+Chapter Six
+Tax Credit Notes
+Article (70)
+Conditions and Requirements for Issuing Tax Credit Note
+1. The Registrant shall issue an original Tax Credit Note when a reduction of Output Tax occurs in relation to any supply made by him according to Clause (2) of Article (62) of this Decree-Law and deliver the same to the Recipient of Goods or Recipient of Services.
+2. When making a Deemed Supply, the Registrant shall issue an original Tax Credit Note when a reduction occurs to the Output Tax in relation to such supply according to Article (61) of this Decree-Law and shall keep the same in his records.
+3. The Executive Regulation of this Decree-Law shall specify the following:
+a. Basic data that should be included in the Tax Credit Note in instances where the Taxable
+Person is required to issue this Note.
+b. The conditions and procedures required for the issuance of an electronic Tax Credit Note.
+c. Instances where the Registrant is not required to issue and deliver a Tax Credit Note to the
+Recipient of Goods or the Recipient of Services.
+d. Instances where other documents may be issued in place of the Tax Credit Note as well as
+conditions for the issuance of such document and the data to be included therein.
+e.
+f. Instances where another Person may issue a Tax Credit Note on behalf of the registered supplier.
+Title Eight
+Tax Period, Tax Returns, Payment and Reclaiming of Tax Chapter One
+Tax Period
+Article (71)
+Duration of Tax Period
+The Executive Regulation of this Decree-Law shall specify the Tax Period for which the Taxable Person shall calculate and pay Tax as well as the exceptional circumstances in which the Authority may amend the Tax Period.
+
+This is an unofficial translation
+Chapter Two
+Tax Returns and Tax Payment Article (72) Submission of Tax Returns
+1. The Taxable Person shall submit the Tax Return to the Authority at the end of each Tax Period within the time limits and according to the procedures specified in the Executive Regulation of this Decree-Law declaring all supplies made and received during that Tax Period.
+2. A Cabinet Decision shall be issued upon the recommendation of the Minister, determining the Government Entities that may submit simplified Tax Returns to the Authority.
+Article (73)
+Payment of Tax
+The Executive Regulation of this Decree-Law shall specify the time limits and procedures for payment of Tax stated as payable in the Tax Return according to the provisions of this Decree-Law.
+Chapter Three
+Carrying forward the Excess of Recoverable Tax and Tax Recovery Article (74)
+Excess Recoverable Tax
+1. With the exception of what will be stipulated in the Executive Regulation of this Decree-Law, the Taxable Person shall carry forward any excess of Recoverable Tax to the subsequent Tax Periods and offset such excess against Payable Tax or any Administrative Penalties imposed under this Decree-Law or Federal Law No. (7) of 2017 on Tax Procedures in subsequent Tax Periods until such excess is fully utilised, in the following cases:
+a. If the Taxable Person’s Recoverable Input Tax set forth in this Decree-Law exceeds the Output Tax payable for the same Tax Period.
+b. If the Tax paid to the Authority by the Taxable Person exceeds the Payable Tax according to the provisions of this Decree-Law, other than in the instance mentioned in paragraph (a) of Clause (1) of this Article.
+2. If there remains any excess for any Tax Period after being carried forward for a period of time, the Taxable Person may apply to the Authority to reclaim the remaining excess. The Executive Regulation of this Decree-Law shall specify the time limits, procedures and mechanisms of returning any remaining excess to the Taxable Person.
+
+This is an unofficial translation
+Chapter Four
+Other Provisions on Recovery of Tax Article (75)
+Tax Recovery in Special Cases
+The Authority may according to the conditions, restrictions and procedures specified in the Executive Regulations of this Decree-Law, return Tax paid for any supply received by or Import carried out by anyone of the following:
+1. A A citizen of the State in respect of the Goods and Services related to the construction of a new residence that is not part of the Person’s Business.
+2. A Non-Resident, who is not a Resident of an Implementing State and conducts a Business and is not a Taxable Person.
+3. A Non-Resident, for Goods supplied to him in the State and that will be exported.
+4. Foreign governments, international organisations, diplomatic bodies and missions according to
+treaties that the State is a party to.
+5. Any Persons or classes listed in a Cabinet Decision issued at the suggestion of the Minister.
+Title Nine
+Violations and Penalties Article (76) Administrative Penalties Assessment
+Without prejudice to the provisions of Federal Law No. (7) of 2017 on Tax Procedures, the Authority shall issue an Administrative Penalty Assessment to the Person and notify the Person of the same within five (5) business days as of the date of issuance in any of the following cases:
+1. Failure by the Taxable Person to display prices inclusive of Tax according to Article (38) of this Decree-Law.
+2. Failure by the Taxable Person to notify the Authority of applying Tax based on the margin according to Article (43) of this Decree-Law.
+3. Failure to comply with the conditions and procedures related to keeping the Goods in a Designated Zone or moving them to another Designated Zone.
+4. Failure by the Taxable Person to issue the Tax invoice or an alternative document when making any Supply.
+5. Failure by the Taxable Person to issue a Tax Credit Note or an alternative document.
+6. Failure by the Taxable Person to comply with the conditions and procedures regarding the issuance
+of electronic Tax Invoices and electronic Tax Credit Notes.
+
+This is an unofficial translation
+Article (77)
+Tax Evasion
+If it is proven that a Person who is not a Registrant acquires Goods referred to in Clause (3) of Article 48 of this Decree-Law, claiming that he is a Registrant, he shall be considered as having committed Tax Evasion and shall be subject to the penalties provided for in Federal Law No. (7) of 2017 on Tax Procedures.
+Title Ten General Provisions Article (78) Record-keeping
+1. Without prejudice to the provisions related to record-keeping stated in any other law, the Taxable Person shall keep the following records:
+a. Records of all supplies and Imports of Goods and Services.
+b. All Tax Invoices and alternative documents related to receiving Goods or Services.
+c. All Tax Credit Notes and alternative documents received.
+d. All Tax Invoices and alternative documents issued.
+e. All Tax Credit Notes and alternative documents issued.
+f. Records of Goods and Services that have been disposed of or used for matters not related
+to Business, showing Taxes paid for the same.
+g. Records of Goods and Services purchased and for which the Input Tax was not deducted. h. Records of exported Goods and Services.
+i. Records of adjustments or corrections made to accounts or Tax Invoices.
+j. Records of any Taxable Supplies made or received in accordance with Clause (3) of Article
+48 of this Decree-Law, including any declarations provided or received in respect of those
+Taxable Supplies.
+k. A Tax Record that includes the following information:
+1) Due Tax on Taxable Supplies.
+2) DueTaxonTaxableSuppliespursuanttothemechanisminClause(1)ofArticle
+(48) of this Decree-Law.
+3) Due Tax after the error correction or adjustment.
+4) Recoverable Tax for supplies or Imports.
+5) Recoverable Tax after the error correction or adjustment.
+2. The Executive Regulation of this Decree-Law shall specify the following:
+a. Time limits, restrictions and conditions for keeping the records listed in Clause (1) of this
+Article.
+b. Restrictions and procedures regarding the maintenance of the confidentiality of the records
+that may be accessed by the Authority in the case of Government Entities mentioned under Clause (2) of Article (72) of this Decree-Law.
+
+This is an unofficial translation
+Articles (79)
+Stating the Tax Registration Number
+The Taxable Person or any other Person authorised in writing by him shall state the Tax Registration Number on each Tax Return, notification, Tax Invoice, Tax Credit Note, and any other document related to Tax or correspondence as required under this Decree-Law or said Federal Law No. (7) of 2017 on Tax Procedures.
+Title Eleven Closing Provisions Article (80) Transitional Rules
+1. If the supplier receives Consideration or part thereof or issues an invoice for Goods or Services before the Decree-Law comes into effect, the date of supply shall be the same as the effective date
+Decree-Law in the following instances if they occur after the effective date of the Decree-
+Transfer of Goods under the supervision of the supplier. Placing the Goods at the recipient’s disposal.
+The completion of assembly or installation of the Goods. The issuance of the customs declaration.
+of the Law: a.
+b. c. d. e.
+to be wholly or partly made after the effective date of this Decree-Law, but such contract does not contain clauses related to Tax on the supply, it shall be treated as per the following:
+a. The Consideration shall be considered inclusive of Tax if chargeable according to this Decree-Law.
+b. Tax shall be calculated on the supply regardless of whether it has been taken into account when determining the Consideration for the supply.
+3. The Executive Regulation of this Decree-Law shall set forth special provisions related to the implementation of this Decree-Law where a contract has been concluded before the effective date of the Decree-Law but the supply under the contract is wholly or partly made after the effective date of this Decree-Law.
+Article (81)
+Revenue Sharing
+Tax revenues and Administrative Penalties set forth in the provisions of this Decree-Law shall be subject to sharing between the Federal Government and the Emirates Governments based on the provisions of Federal Decree-Law No. (13) of 2016 On the Establishment of the Federal Tax Authority.
+The acceptance by the Reciepient of Goods of the supply.
+2. If a contract has been concluded prior to the enforcement of this Decree-Law, regarding a supply
+
+This is an unofficial translation
+Article (82) Executive Regulation
+The Cabinet shall issue the Executive Regulation of this Decree-Law at the suggestion of the Minister.
+Article (83)
+In case of absence of a special provision in this Decree-Law, the provisions of Federal Law No. (7) of 2017 on Tax Procedures shall be applied.
+Article (84)
+Cancellation of Conflicting Provisions
+Any text or provisions contrary to or inconsistent with the provisions of this Decree-Law shall be abrogated.
+Article (85)
+Effective Date of this Decree-Law and its Application
+This Decree-Law shall be published in the Official Gazette and shall come into effect as of January 1, 2018.
+Khalifa bin Zayed Al Nahyan President of the United Arab Emirates
+Issued by us at the Presidential Palace in Abu Dhabi On: 1 /12/1438 H.
+Corresponding to: 23/ 8 /2017
